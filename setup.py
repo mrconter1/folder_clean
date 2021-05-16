@@ -22,7 +22,7 @@ setup(
     long_description=long_description,
     author='Kjell Klark',
     author_email='mrconter1@gmail.com',
-    url='https://github.com/bast/somepackage',
+    url='https://github.com/mrconter1/folder_clean',
     license='MPL-2.0',
     packages=['folder_clean'],
     include_package_data=True,
