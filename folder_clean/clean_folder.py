@@ -1,2 +1,4 @@
 def clean(folder_path, exclude_list):
-    print("hej")
+    dirs = os.listdir( folder_path )
+    for item in dirs:
+        print(item)
